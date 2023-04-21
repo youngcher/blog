@@ -9,5 +9,3 @@
 ## 깃허브 사용법 안내 가이드
 - 깃허브 사용 초급 [클릭](https://tagilog.tistory.com/377)
 - 깃허브 사용 중급 [클릭](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=donghyunele&logNo=221148113692)
-
-## mcb는 왜 들어간거죠?
